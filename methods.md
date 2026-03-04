@@ -1,4 +1,0 @@
----
-title: "Methods"
-permalink: /methods
----

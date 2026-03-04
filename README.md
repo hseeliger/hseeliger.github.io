@@ -5,5 +5,3 @@
 [Teaching](teaching.html)
 
 [Organized workshops](workshops.html)
-
-[Methods](methods.html)
