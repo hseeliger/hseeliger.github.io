@@ -9,7 +9,7 @@ permalink: /publications
 
 - Schaebbicke, Katharina, Heiko Seeliger & Sophie Repp (2021). [The diverse landscape of negative polarity items: On the use of German NPIs as experimental diagnostics.](https://link.springer.com/content/pdf/10.1007/s10936-021-09793-0.pdf) *Journal of Psycholinguistic Research.*
 
-- Repp, Sophie & Heiko Seeliger (2020). [Prosodic prominence in polar questions and exclamatives.](https://doi.org/10.3389/fcomm.2020.00053) *Frontiers in Communication*
+- Repp, Sophie & Heiko Seeliger (2020). [Prosodic prominence in polar questions and exclamatives.](https://doi.org/10.3389/fcomm.2020.00053) *Frontiers in Communication.*
 
 ## Conference proceedings
 
