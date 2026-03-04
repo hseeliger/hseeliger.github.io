@@ -44,3 +44,8 @@ permalink: /publications
 ## Dissertation
 
 - Seeliger, Heiko (2019). [*Swedish and German rejecting questions. Empirical investigations of question bias.*](http://dx.doi.org/10.18452/19686) Dissertation, Humboldt-Universität zu Berlin.
+
+## Miscellaneous
+
+- Seeliger, Heiko (2022). Akzent, Fokus und Kontrast in Fragen. In Sophie Repp & Tue Trinh (eds.): [*Für | For Manfred from his students.*](https://kups.ub.uni-koeln.de/63962/2/0-manfredbuch-korrigiert-221102.pdf) 113--117.
+    - A German squib in a "don't call it Festschrift" Festschrift for Manfred Krifka.
