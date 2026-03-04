@@ -1,8 +1,6 @@
 ---
-layout: page
 title: "Publications"
 permalink: /publications
-theme: jekyll-theme-minimal
 ---
 
 ## Journal articles

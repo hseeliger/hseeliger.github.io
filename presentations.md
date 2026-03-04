@@ -1,8 +1,6 @@
 ---
-layout: page
 title: "Presentations"
 permalink: /presentations
-theme: jekyll-theme-minimal
 ---
 
 - Repp, Sophie, Heiko Seeliger & Sven Weber. Pronoun accentuation produces interference effects in memory for alternatives. 6th Phonetics and Phonology in Europe (PaPE), Palma de Mallorca. June 27th 2025. [[Poster](files/ReppSeeligerWeber_Poster_final.pdf)]
