@@ -30,6 +30,6 @@ permalink: /presentations
 
 - Ito, Katsumasa & Heiko Seeliger. Zur Semantik und Pragmatik von selbstständigem "Und ob!" und "Als ob!". *Germanistische Linguistik zwischen Köln und Tokio, Bielefeld. April 29th 2025.*
 - Seeliger, Heiko. The influence of text and context on the prosody of German questions. *Linguistischer Arbeitskreis Köln, October 30th 2024.* [[slides](files/LAK2024.pdf)]
-- Seeliger, Heiko. Prosodic focus marking in German declarative questions. *4. SFB-Networking-Workshop, ZAS Berlin, July 5th 2022.*
+- Seeliger, Heiko. Prosodic focus marking in German declarative questions. *4. SFB-Networking-Workshop, ZAS Berlin, July 5th 2022.* [[slides](files/Seeliger_Networking_Slides.pdf)]
 - Seeliger, Heiko. And the winner is... How to make compromises between illocution, information structure and prosodic requirements for accent placement. *Linguistischer Arbeitskreis Köln (online), December 8th 2021.* [[slides](files/LAK.pdf)]
 - Seeliger, Heiko & Sophie Repp. Speech act meets information structure: On the interaction of different requirements for prosodic prominence in exclamatives and polar questions. *3. SFB-Networking-Workshop, Saarbrücken (online), July 15th 2021.*
