@@ -1,5 +1,9 @@
-# Dr. Heiko Seeliger
+[Publications](publications.html)
 
-Placeholder text
+Presentations
 
-[Publications](https://hseeliger.github.io/publications.html)
+Teaching
+
+Organized workshops
+
+Methods
