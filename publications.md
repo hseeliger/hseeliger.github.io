@@ -1,9 +1,3 @@
----
-layout: page
-title: "Publications"
-permalink: /publications
----
-
 ## Journal articles
 
 - Seeliger, Heiko & Sophie Repp (2023). [Information-structural surprises? Contrast, givenness, and (the lack of) accent shift and deaccentuation in non-assertive speech acts. Journal of Laboratory Phonology.](https://www.journal-labphon.org/article/id/6451/)
