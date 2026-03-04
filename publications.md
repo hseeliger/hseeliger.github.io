@@ -39,7 +39,7 @@ permalink: /publications
 
 - Härtl, Holden & Heiko Seeliger (2019). [Is a so-called "beach" a beach? An empirically based analysis of secondary content induced by ironic name use.](https://doi.org/10.1163/9789004393127_009) In Daniel Gutzmann & Katharina Turgay (eds.): *Secondary content. The Semantics and Pragmatics of Side Issues.* Amsterdam: Brill.
 
-- Seeliger, Heiko & Sophie Repp (2018). [Biased declarative questions in Swedish and German: Negation meets modal particles (väl and doch wohl).](https://doi.org/10.1075/la.249.05see) In Christine Dimroth & Stefan Sudhoff (eds.): *The Grammatical Realization of Polarity Contrast. Theoretical and experimental approaches.* Amsterdam: Benjamins.
+- Seeliger, Heiko & Sophie Repp (2018). [Biased declarative questions in Swedish and German: Negation meets modal particles (väl and doch wohl).](https://doi.org/10.1075/la.249.05see) In Christine Dimroth & Stefan Sudhoff (eds.): *The Grammatical Realization of Polarity Contrast. Theoretical and experimental approaches.* Amsterdam: Benjamins. [[author version](files/Seeliger___Repp_2017_Biased_declarative_questions.pdf)]
 
 ## Dissertation
 
