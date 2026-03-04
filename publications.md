@@ -47,5 +47,5 @@ permalink: /publications
 
 ## Miscellaneous
 
-- Seeliger, Heiko (2022). Akzent, Fokus und Kontrast in Fragen. In Sophie Repp & Tue Trinh (eds.): [*Für | For Manfred from his students.*](https://kups.ub.uni-koeln.de/63962/2/0-manfredbuch-korrigiert-221102.pdf) 113--117.
+- Seeliger, Heiko (2022). Akzent, Fokus und Kontrast in Fragen. In Sophie Repp & Tue Trinh (eds.): [*Für \| For Manfred from his students.*](https://kups.ub.uni-koeln.de/63962/2/0-manfredbuch-korrigiert-221102.pdf) 113--117.
     - A German squib in a "don't call it Festschrift" Festschrift for Manfred Krifka.
