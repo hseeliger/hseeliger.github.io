@@ -6,8 +6,8 @@ permalink: /presentations
 ## Conferences
 
 - Repp, Sophie, Heiko Seeliger & Sven Weber. Pronoun accentuation produces interference effects in memory for alternatives. *31st AMLaP, Prague. September 6th 2025.*
-- Repp, Sophie, Heiko Seeliger, Judith Schlenter & Petra B. Schumacher. How information structure, prosodic prominence, and speech act affect reference resolution: Evidence from eyetracking. *31st AMLaP, Prague. September 5th 2025.*
-- Repp, Sophie, Heiko Seeliger & Sven Weber. Pronoun accentuation produces interference effects in memory for alternatives. *6th Phonetics and Phonology in Europe (PaPE), Palma de Mallorca. June 27th 2025.* [[Poster](files/ReppSeeligerWeber_Poster_final.pdf)]
+- Repp, Sophie, Heiko Seeliger, Judith Schlenter & Petra B. Schumacher. How information structure, prosodic prominence, and speech act affect reference resolution: Evidence from eyetracking. *31st AMLaP, Prague, poster presentation. September 5th 2025.*
+- Repp, Sophie, Heiko Seeliger & Sven Weber. Pronoun accentuation produces interference effects in memory for alternatives. *6th Phonetics and Phonology in Europe (PaPE), Palma de Mallorca, poster presentation. June 27th 2025.* [[Poster](files/ReppSeeligerWeber_Poster_final.pdf)]
 - Seeliger, Heiko & Constantijn Kaland. Perception compared to clustered intonation variation in German wh-questions. *3rd International Conference on Tone and Intonation (TAI), Herrsching am Ammersee. May 16th 2025.* [[slides](files/SeeligerKaland_TAI2025.pdf)]
 - Repp, Sophie & Heiko Seeliger. Modal particle meets prosody: Speech act modification in declarative questions (?). *3rd International Conference on Tone and Intonation (TAI), Herrsching am Ammersee, poster presentation. May 16th 2025.* [[Poster](files/ReppSeeliger_Modal_particle_meets_prosody.pdf)]
 - Seeliger, Heiko & Sophie Repp. Givenness perception in declaratives vs. exclamatives. *Speech Prosody 2024, Leiden. July 4th 2024.* [[slides](files/Seeliger_Repp_SP2024.pdf)]
@@ -28,7 +28,7 @@ permalink: /presentations
 
 ## Workshops and colloquia
 
-- Ito, Katsumasa & Heiko Seeliger. Zur Semantik und Pragmatik von selbstständigem "Und ob!" und "Als ob!". *Germanistische Linguistik zwischen Köln und Tokio, Bielefeld. April 29th 2025.*
+- Ito, Katsumasa & Heiko Seeliger. Zur Semantik und Pragmatik von selbstständigem "Und ob!" und "Als ob!". *Germanistische Linguistik zwischen Köln und Tokio (GAKT 9), Bielefeld. April 29th 2025.*
 - Seeliger, Heiko. The influence of text and context on the prosody of German questions. *Linguistischer Arbeitskreis Köln, October 30th 2024.* [[slides](files/LAK2024.pdf)]
 - Seeliger, Heiko. Prosodic focus marking in German declarative questions. *4. SFB-Networking-Workshop, ZAS Berlin, July 5th 2022.* [[slides](files/Seeliger_Networking_Slides.pdf)]
 - Seeliger, Heiko. And the winner is... How to make compromises between illocution, information structure and prosodic requirements for accent placement. *Linguistischer Arbeitskreis Köln (online), December 8th 2021.* [[slides](files/LAK.pdf)]

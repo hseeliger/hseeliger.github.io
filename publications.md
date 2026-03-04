@@ -29,7 +29,7 @@ permalink: /publications
 
 - Seeliger, Heiko & Sophie Repp (2020). [Competing prominence requirements in verb-first exclamatives with contrastive and given information.](https://www.isca-archive.org/speechprosody_2020/seeliger20_speechprosody.pdf) *Proceedings of Speech Prosody 2020.*
 
-- Seeliger, Heiko & Sophie Repp (2017). On the intonation of Swedish rejections and rejecting questions. In Jardar Eggesbø Abrahamsen, Wim A. van Dommelen and Jacques Koreman (eds.): Nordic Prosody. *Proceedings of the XXIIth Conference, Trondheim 2016.* Frankfurt: Peter Lang. [[author version](files/Seeliger_Repp_Nordic_Prosody_Web.pdf)]
+- Seeliger, Heiko & Sophie Repp (2017). On the intonation of Swedish rejections and rejecting questions. In Jardar Eggesbø Abrahamsen, Wim A. van Dommelen and Jacques Koreman (eds.): *Nordic Prosody. Proceedings of the XXIIth Conference, Trondheim 2016.* Frankfurt: Peter Lang. [[author version](files/Seeliger_Repp_Nordic_Prosody_Web.pdf)]
 
 - Seeliger, Heiko (2015). ["Surely that's not a negative declarative question?" Polar discourses in Swedish, German and English.](https://www.uni-goettingen.de/de/document/download/5fa1d63677d187ea475247d8739531c8.pdf/seeliger_sub19.pdf) *Proceedings of Sinn und Bedeutung 19.*
 
