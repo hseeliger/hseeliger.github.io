@@ -2,4 +2,4 @@
 
 Placeholder text
 
-[Publications](https://hseeliger.github.io/publications)
+[Publications](https://hseeliger.github.io/publications.html)
