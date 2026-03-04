@@ -1,9 +1,9 @@
 [Publications](publications.html)
 
-Presentations
+[Presentations](presentations.html)
 
-Teaching
+[Teaching](teaching.html)
 
-Organized workshops
+[Organized workshops](workshops.html)
 
-Methods
+[Methods](methods.html)
